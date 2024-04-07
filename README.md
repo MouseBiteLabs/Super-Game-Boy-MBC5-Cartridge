@@ -1,4 +1,4 @@
-# Super-Game-Boy-MBC5-Cartridge
+# Super Game Boy MBC5 Cartridge
 
 Have you ever seen a standalone Pokemon Red cartridge for the *Super Nintendo*? The usual way of making one of these is to take a Super Game Boy and a Game Boy cartridge, and permanently solder the Game Boy cartridge to the Super Game Boy cartridge, and put it into a shell. But it doesn't have to be this way!
 
